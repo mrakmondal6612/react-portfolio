@@ -7,7 +7,6 @@ import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
 import arrow from "../assets/arrow.png";
 import { AiFillGithub } from "react-icons/ai";
-import ShinyEffect from "./ShinyEffect";
 
 const projects = [
   {
